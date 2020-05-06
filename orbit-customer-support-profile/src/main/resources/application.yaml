@@ -1,0 +1,4 @@
+application:
+    dynamodb:
+        endpoint: dynamodb.us-east-1.amazonaws.com #http://localhost:8000
+        customer_table: orbit-single-sandbox
